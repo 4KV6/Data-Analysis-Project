@@ -166,3 +166,4 @@ data/staion_group_networkID.json
 data/stations_daily_merge.csv
 data/stations_hourly_merge.csv
 data/stations_rsinaica_fixed.csv
+*.csv
