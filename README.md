@@ -1,6 +1,6 @@
 # Data-Analysis-Project
 
-## รายชื่อสมาชิกในทีม & หน้าที่ที่ได้รับ
+## รายชื่อสมาชิกในทีม & หน้าที่ที่ได้รับ  
 นายศุภวิชญ์ ขันธิกุล : clean data  
 นายกรพัส ธนกฤตนภันต์ : draw chart & statistics  
 นายพีรถัทร โนตาปิง : draw chart & statistics  
