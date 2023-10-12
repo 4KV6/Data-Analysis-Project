@@ -15,3 +15,7 @@
 1.ข้อมูลรายวัน  
 2.ข้อมูลรายชั่วโมง  
 3.ข้อมูลสถานที่เก็บวัดสภาพอากาศ  
+
+## video นำเสนอ  
+
+[Data Analytics Presentation Video](https://o365cmu-my.sharepoint.com/:v:/g/personal/supawit_kantikul_cmu_ac_th/EUF2Ypz6aEtMiiM6P0ZK9vcBGxWWYzVhdvZyLiTHSeCXEQ)
